@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="allureTest">
+    <test name="alluretest" enabled="true">
+        <classes>
+            <class name="com.alluretest.TestAutoAllure1"/>
+            <class name="com.alluretest.TestAutoAllure2"/>
+            <class name="com.alluretest.TestAutoAllure3"/>
+        </classes>
+    </test> <!-- Test -->
+
+    <test name="allureTest2" enabled="true">
+        <classes>
+            <class name="com.alluretest2.TestAutoAllure21"></class>
+            <class name="com.alluretest2.TestAutoAllure22"></class>
+            <class name="com.alluretest2.TestAutoAllure23"></class>
+        </classes>
+    </test>
+
+</suite> <!-- Suite -->

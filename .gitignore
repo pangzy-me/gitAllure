@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# ignore .idea
+/.idea/
+
+# ignore allure-report
+/allure-report/
+
+# ignore allure-results
+/allure-results/
+
+# ignore target
+/target/
+
+# ignore *.iml file
+*.iml
